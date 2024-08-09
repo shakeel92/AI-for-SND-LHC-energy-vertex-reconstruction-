@@ -5,4 +5,5 @@ CNN model for event classification, energy and vertex reconstruction on SND@LHC 
 Convolution neural network was trained as regression model to reconstruct the enrgy of neural current and charged current interactions of neutrinos
 ## Vertex Reconstruction
 CNN model was used for vertex reconstruction of neutrino interactions.
-## Energy Reconstruction
+## Event Classification
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
