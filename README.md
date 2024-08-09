@@ -6,4 +6,4 @@ Convolution neural network was trained as regression model to reconstruct the en
 ## Vertex Reconstruction
 CNN model was used for vertex reconstruction of neutrino interactions.
 ## Event Classification
-![alt text]([https://github.com/https://github.com/shakeel92/AI-for-SND-LHC-energy-vertex-reconstruction-/error.png?raw=true)
+![alt text]([https://github.com/shakeel92/AI-for-SND-LHC-energy-vertex-reconstruction-/error.png?raw=true)
