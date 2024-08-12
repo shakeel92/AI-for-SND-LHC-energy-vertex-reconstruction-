@@ -3,7 +3,8 @@ AI tools are developed under the supervision of Dr. Albert De Roeck and Dr. Cris
 CNN model for event classification, energy and vertex reconstruction on SND@LHC data
 # CNN Model 
 Following CNN model is used in this study admired by the ARTEM toy model
-![Picture3](https://github.com/user-attachments/assets/3edf08b5-9953-4751-9848-74de53809137)
+ ![Untitled](https://github.com/user-attachments/assets/f8a821dd-6e33-48ef-8b56-e0ee12ab0c1d)
+
 
 ## Vertex Reconstruction
 Convolution neural network was trained as regression model to reconstruct the enrgy of neural current and charged current interactions of neutrinos
