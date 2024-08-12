@@ -1,5 +1,5 @@
 # AI-for-SND@LHC 
-AI tools are developed under the supervision of Dr. Albert De Roeck and Dr. Cristovao Vilela
+AI tools are developed under the supervision of Dr. Albert De Roeck and Dr. Cristovao Vilela.
 Code of CNN model for event classification, energy and vertex reconstruction on SND@LHC simulated data are uploaded. 
 # CNN Model 
 Following CNN model is used in this study admired by the ARTEM toy model
