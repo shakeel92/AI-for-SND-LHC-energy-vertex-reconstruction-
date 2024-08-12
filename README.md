@@ -1,6 +1,6 @@
 # AI-for-SND@LHC 
 AI tools are developed under the supervision of Dr. Albert De Roeck and Dr. Cristovao Vilela
-Code of CNN model for event classification, energy and vertex reconstruction on SND@LHC data are uploaded. 
+Code of CNN model for event classification, energy and vertex reconstruction on SND@LHC simulated data are uploaded. 
 # CNN Model 
 Following CNN model is used in this study admired by the ARTEM toy model
  ![Untitled](https://github.com/user-attachments/assets/f8a821dd-6e33-48ef-8b56-e0ee12ab0c1d)
